@@ -1,47 +1,30 @@
-# 👋 Hi, I'm Mahabub Hasan Bayzid
+<div align="center">
 
-Welcome to my GitHub! I'm a backend-focused full-stack developer who loves building robust, scalable, and efficient web applications. While I enjoy working across the stack, I'm especially passionate about crafting clean backend logic and API architecture using **PHP** and **Laravel**.
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQEqrP4Yp4bT2Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729626683155?e=1749686400&v=beta&t=XaHLAvlzgM-pE-wTeptHfoZzgBawjsSrk8OtpEY0yYM" alt="Mahabub Hasan Bayzid" width="80%" style="border-radius: 10px;">
 
----
+  <h1>Hey there! 👋 I'm Mahabub Hasan Bayzid</h1>
 
-## 🔧 Tech I Work With
+  <p align="center">
+    A backend-focused developer diving deep into the art of crafting robust and scalable server-side solutions. I get a real kick out of architecting systems that are not just functional, but also efficient and a joy to maintain.
+  </p>
 
-### 💻 Backend
-- PHP, Laravel, MySQL  
-- RESTful APIs, Authentication, MVC Architecture
+  <p align="center">
+    <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/[YOUR_STACKOVERFLOW_ID]" target="_blank">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    </a>
+    <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+      <img alt="Email" src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-### 🌐 Frontend
-- HTML5, CSS3, JavaScript (Vanilla & DOM)
-- React.js (Hooks, JSX, Component-based design)
-
-### 🛠️ Tools & Workflow
-- Git & GitHub  
-- VS Code, Postman  
-- Local & Remote Development  
-- Working with real-world use cases and project-based workflows
-
----
-
-## 🚀 What I'm Working On
-- Improving my Laravel backend skills with deeper API design and security practices
-- Building full-stack projects that integrate frontend UI with solid backend logic
-- Exploring modern JS practices to enhance user experience on the frontend
+</div>
 
 ---
 
-## 📂 Some of My Projects
-You can check out my pinned repositories to see some of the projects I've built using Laravel, JavaScript, and React. I like keeping things simple, readable, and well-structured.
-
----
-
-## 📫 Let's Connect
-If you want to talk code, work on a project, or just say hi:
-
-- 📧 Email: [mahabubhasan.bayzid@gmail.com](mailto:mahabubhasan.bayzid@gmail.com)
-- 🌐 Portfolio: *(Coming soon)*  
-- 💼 LinkedIn: *(Optional – Add your link if you'd like)*
-
----
-
-Thanks for stopping by! 😊  
-Feel free to explore and fork anything that catches your eye.
+### 🛠️ Backend Expertise & Tools
