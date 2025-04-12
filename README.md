@@ -9,16 +9,16 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+    <a href="www.linkedin.com/in/mahabub-hasan-bayzid-97a784248" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]" target="_blank">
+    <a href="https://twitter.com/MH Bayzid" target="_blank">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="https://stackoverflow.com/users/[YOUR_STACKOVERFLOW_ID]" target="_blank">
       <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
     </a>
-    <a href="mailto:[YOUR_EMAIL_ADDRESS]">
+    <a href="mailto:mhbayzid009@gmail.com">
       <img alt="Email" src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -26,5 +26,3 @@
 </div>
 
 ---
-
-### 🛠️ Backend Expertise & Tools
